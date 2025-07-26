@@ -93,6 +93,7 @@ This project covers:
 * Open-source Dropbox/Google Drive alternative
 * Dockerized PHP app with Apache, uses MariaDB
 * Includes sync, sharing, calendar, contacts, and extensions
+![Nextcloud Dashboard]<img width="1440" height="829" alt="image" src="https://github.com/user-attachments/assets/4ba9f2c2-aefb-4bbd-bd87-b97c502ac40c" />
 
 ### 🎧 Jellyfin
 
