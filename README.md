@@ -11,6 +11,10 @@ This project was designed to sharpen hands-on skills in Linux, networking, syste
 
 ---
 
+✨ Inspiration - https://chriskalos.notion.site/The-0-Home-Server-Written-Guide-5d5ff30f9bdd4dfbb9ce68f0d914f1f6
+
+---
+
 ## 🛠️ Setup Overview
 
 | Tool / Service | Purpose |
