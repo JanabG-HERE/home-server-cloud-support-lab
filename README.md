@@ -99,7 +99,7 @@ This project covers:
 * Dockerized PHP app with Apache, uses MariaDB
 * Includes sync, sharing, calendar, contacts, and extensions
 * Nextcloud Dashboard
-* <img width="1440" height="829" alt="image" src="https://github.com/user-attachments/assets/4ba9f2c2-aefb-4bbd-bd87-b97c502ac40c" />
+  <img width="1440" height="829" alt="image" src="https://github.com/user-attachments/assets/4ba9f2c2-aefb-4bbd-bd87-b97c502ac40c" />
 
 ### 🎧 Jellyfin
 
@@ -115,7 +115,7 @@ This project covers:
 * It lets you monitor system resources, manage storage, services, networking, and users — all via a GUI.
 * To enable: sudo systemctl enable --now cockpit.socket
 * Access from browser & log in with your Linux username/password for real-time control.
-* <img width="1434" height="825" alt="image" src="https://github.com/user-attachments/assets/ac0f97c0-39d4-4e64-bc72-6deb55b6773f" />
+  <img width="1434" height="825" alt="image" src="https://github.com/user-attachments/assets/ac0f97c0-39d4-4e64-bc72-6deb55b6773f" />
 
 
 
@@ -124,8 +124,8 @@ This project covers:
 * Each service (Nextcloud, DB, Jellyfin, Cockpit) in isolated containers
 * Persistent volumes for `/data`, `/config`, `/media`
 * `docker-compose.yml` orchestrates startup
-* <img width="1086" height="196" alt="image" src="https://github.com/user-attachments/assets/64f7b801-76bb-4120-a441-ecbeae28a11e" />
-* <img width="1088" height="238" alt="image" src="https://github.com/user-attachments/assets/4ee19e76-1603-4c73-b21f-137d071bf56f" />
+  <img width="1086" height="196" alt="image" src="https://github.com/user-attachments/assets/64f7b801-76bb-4120-a441-ecbeae28a11e" />
+  <img width="1088" height="238" alt="image" src="https://github.com/user-attachments/assets/4ee19e76-1603-4c73-b21f-137d071bf56f" />
 
 
 ### 🛋 Nginx Reverse Proxy
@@ -144,9 +144,10 @@ This project covers:
 * WireGuard-based mesh VPN
 * Securely access Jellyfin & SSH from anywhere
 * Optional MagicDNS + Funnel for HTTPS without port forwarding
-* Access from anywhere <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/8daa76cd-d172-4ff3-a971-0579ebacc23b" />
-
-* <img width="1085" height="185" alt="image" src="https://github.com/user-attachments/assets/87addf15-2152-41ce-bb87-6490a0c84558" />
+* Access from anywhere
+  <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/8daa76cd-d172-4ff3-a971-0579ebacc23b" />
+* Tailscale
+  <img width="1085" height="185" alt="image" src="https://github.com/user-attachments/assets/87addf15-2152-41ce-bb87-6490a0c84558" />
 
 ---
 
