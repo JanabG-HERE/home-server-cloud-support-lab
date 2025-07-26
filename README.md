@@ -144,7 +144,7 @@ This project covers:
 * WireGuard-based mesh VPN
 * Securely access Jellyfin & SSH from anywhere
 * Optional MagicDNS + Funnel for HTTPS without port forwarding
-* Access from anywhere <img width="1170" height="1000" alt="image" src="https://github.com/user-attachments/assets/8daa76cd-d172-4ff3-a971-0579ebacc23b" />
+* Access from anywhere <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/8daa76cd-d172-4ff3-a971-0579ebacc23b" />
 
 * <img width="1085" height="185" alt="image" src="https://github.com/user-attachments/assets/87addf15-2152-41ce-bb87-6490a0c84558" />
 
