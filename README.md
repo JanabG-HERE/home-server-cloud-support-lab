@@ -7,7 +7,7 @@ This project was designed to sharpen hands-on skills in Linux, networking, syste
 ---
 
 🚀 If you need a full in-depth Step by Step Guide, go to docs... Have a fun night ;)   
-👉 [📄 View the **Full Guide PDF**](docs/Home Lab Project.pdf)
+👉 [📄 View the **Full Guide PDF**](docs/Home%20Lab%20Project.pdf)
 
 ---
 
