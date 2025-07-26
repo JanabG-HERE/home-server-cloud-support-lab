@@ -1,0 +1,38 @@
+version: '3'
+
+services:
+  nextcloud:
+    image: nextcloud
+    restart: always
+    ports:
+      - "8080:80"
+    volumes:
+      - nextcloud_data:/var/www/html
+    depends_on:
+      - db
+
+  db:
+    image: mariadb
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpass
+      MYSQL_DATABASE: nextcloud
+      MYSQL_USER: ncuser
+      MYSQL_PASSWORD: ncpass
+    volumes:
+      - db_data:/var/lib/mysql
+
+  netdata:
+    image: netdata/netdata:latest
+    container_name: netdata
+    hostname: home-server
+    ports:
+      - 19999:19999
+    cap_add:
+      - SYS_PTRACE
+    security_opt:
+      - apparmor:unconfined
+
+volumes:
+  nextcloud_data:
+  db_data:
